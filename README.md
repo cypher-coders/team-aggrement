@@ -1,4 +1,4 @@
-# 401-mid-term-project - team aggrement
+# 401-mid-term-project - team agreement
 
 ## Project Name
 
