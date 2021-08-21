@@ -2,7 +2,7 @@
 
 ## Project Name
 
-**real-time-translator**
+**Real Time Translator**
 
 &nbsp;
 
