@@ -2,6 +2,8 @@
 
 ## Project Name
 
+**real-time-translator**
+
 &nbsp;
 
 ## Team Members
